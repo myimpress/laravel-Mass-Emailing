@@ -26,5 +26,5 @@ php artisan migrate
 ```
 ..\impress_sms\project\app\Services\SendSms.php
 ```
-至于上传excel导入数据库的文件被我误删了,后续还原出来.
+excel是要使用固定的内容,在public下.
 你可以任意修改代码,但是我保留最终解释权.
